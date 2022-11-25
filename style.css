@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-size: large;
+    color: darkblue;
+}
+section{
+    height: 500px;
+    
+    
+    
+
+}
+.text-highlight {
+    color: palevioletred;
+    font-weight: 1000;
+}
+.link-button{
+   
+    text-decoration: none;
+    background-color: palevioletred;
+    padding: 8px 12px;
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+}
+
+.half img{
+    width: 100%;
+}
+
+.Get_Started{
+    
+    background-image: url("image/background.png");
+    background-repeat: no-repeat;
+}
+
+.half{
+    display: inline-block;
+    width: 40%;
+    
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+
+.Book_Now{
+    background-image: url("image/background.png");
+    background-repeat: no-repeat;
+}
+
+.Work_Demo{
+    
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 1%;
+}
+.Work_Demo img{
+    width: 100%;
+}
+.Blog{
+    background-image: url("image/background.png");
+    background-repeat: no-repeat;
+}
